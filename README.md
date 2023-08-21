@@ -4,12 +4,7 @@
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Web Designing and Software Designing.
 - 📫 How to reach me: oluwafisayoibrahim2@gmail.com
-- 
-## Contact Me
-
-- 📫 Email: [oluwafisayoibrahim@gmail.com](mailto:oluwafisayoibrahim@gmail.com)
-- 🐦 Twitter: [@whoisfisayo](https://twitter.com/YourTwitterHandle)
-<!--
+  
 **OluwafisayoIbrahim/OluwafisayoIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
