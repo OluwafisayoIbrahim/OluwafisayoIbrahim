@@ -7,8 +7,8 @@
 - 
 ## Contact Me
 
-- 📫 Email: [Your Email Address](mailto:oluwafisayoibrahim@gmail.com)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- 📫 Email: [oluwafisayoibrahim@gmail.com](mailto:oluwafisayoibrahim@gmail.com)
+- 🐦 Twitter: [@whoisfisayo](https://twitter.com/YourTwitterHandle)
 <!--
 **OluwafisayoIbrahim/OluwafisayoIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
